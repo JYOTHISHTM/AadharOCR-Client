@@ -77,12 +77,14 @@ npm run dev
 ``
 http://localhost:5173
 ``
-## 📸 Screenshots (References)
+## 📸 Screenshots
 
-## Aadhaar Images
+### Aadhaar Images
+![Aadhaar OCR Screenshot](https://res.cloudinary.com/drha2z2qr/image/upload/v1757401693/Screenshot_2025-09-09_123125_szvrk3.png)
 
-##Extracted Aadhaar Data Display
+### Extracted Aadhaar Data Display
+![Aadhaar OCR Screenshot](https://res.cloudinary.com/drha2z2qr/image/upload/v1757401693/Screenshot_2025-09-09_123125_szvrk3.png)
 
-📄 License
+📄 License  
 
-This project is licensed under the JYOTHISH T M
+This project is licensed under the **JYOTHISH T M**
