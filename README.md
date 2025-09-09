@@ -25,8 +25,8 @@ It is built with **React.js (Vite)** and provides a simple UI for uploading Aadh
 ---
 
 ## 📂 Project Structure
-
-rontend/
+```
+Frontend/
 └── src/
 ├── api/
 │ └── index.js
@@ -36,12 +36,12 @@ rontend/
 ├── App.jsx
 ├── index.css
 └── main.jsx
-
+```
 
 
 ## ⚙️ Environment Variables
 
-Create a `.env` file in the `frontend/` folder:
+Create a `.env.example` file in the `frontend/` folder:
 
 ```env
 VITE_API_BASE_URL=http://localhost:5000
