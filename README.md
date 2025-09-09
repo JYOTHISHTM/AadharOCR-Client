@@ -83,7 +83,7 @@ http://localhost:5173
 ![Aadhaar OCR Screenshot](https://res.cloudinary.com/drha2z2qr/image/upload/v1757401693/Screenshot_2025-09-09_123125_szvrk3.png)
 
 ### Extracted Aadhaar Data Display
-![Aadhaar OCR Screenshot](https://res.cloudinary.com/drha2z2qr/image/upload/v1757401693/Screenshot_2025-09-09_123125_szvrk3.png)
+![Aadhaar OCR Screenshot](https://res.cloudinary.com/drha2z2qr/image/upload/v1757401704/Screenshot_2025-09-09_123255_or1xmh.png)
 
 📄 License  
 
