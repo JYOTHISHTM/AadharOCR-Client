@@ -75,7 +75,7 @@ npm run dev
 
 ## Open the app in your browser:
 ``
-http://localhost:5173
+example : http://localhost:5173
 ``
 ## 📸 Screenshots
 
