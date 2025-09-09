@@ -38,6 +38,14 @@ Frontend/
 └── main.jsx
 ```
 
+## ⚙️ Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/AadhaarOCR-Client.git
+
+```
 
 ## ⚙️ Environment Variables
 
@@ -45,27 +53,27 @@ Create a `.env.example` file in the `frontend/` folder:
 
 ```env
 VITE_API_BASE_URL=http://localhost:5000
-
+```
 
 
 🛠️ Setup Instructions
 
 Navigate to the frontend folder:
-
+```
 cd frontend
+```
 
-
-Install dependencies:
-
+##Install dependencies:
+``
 npm install
+``
 
-
-Run the development server:
-
+##Run the development server:
+``
 npm run dev
+``
 
-
-Open the app in your browser:
+##Open the app in your browser:
 http://localhost:5173
 
 📸 Screenshots (References)
